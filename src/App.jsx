@@ -1,9 +1,19 @@
-import logo from './assets/The Dragon News.png';
+import HomeLayout from "./layouts/HomeLayout"
+
+
 function App() {
   return (
     <>
-    <div className="flex items-center justify-center">
-      <img src={logo} alt="Logo" />
+    <div>
+      {/* <Header></Header>
+      <NewsBar></NewsBar>
+      <NavBar></NavBar>
+      <div className="flex items-center justify-around gap-4 mx-auto mt-4">
+        <SideBar></SideBar>
+        <NewsFeed></NewsFeed>
+        <Adverstise></Adverstise>
+      </div> */}
+      <HomeLayout></HomeLayout>
     </div>
     </>
   )

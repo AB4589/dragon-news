@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "name": "Breaking News"
+  },
+  {
+    "id": "02",
+    "name": "Politics"
+  },
+  {
+    "id": "03",
+    "name": "Business"
+  },
+  {
+    "id": "04",
+    "name": "Sports"
+  },
+  {
+    "id": "05",
+    "name": "Technology"
+  },
+  {
+    "id": "06",
+    "name": "Entertainment"
+  },
+  {
+    "id": "07",
+    "name": "Health"
+  },
+  {
+    "id": "08",
+    "name": "Science"
+  },
+  {
+    "id": "09",
+    "name": "World"
+  },
+  {
+    "id": "10",
+    "name": "Education"
+  }
+]
