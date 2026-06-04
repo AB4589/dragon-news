@@ -1,5 +1,9 @@
 [
   {
+    "id": "00",
+    "name": "All News"
+  },
+  {
     "id": "01",
     "name": "Breaking News"
   },

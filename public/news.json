@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "title": "New AI Initiative Aims to Improve Everyday Digital Services",
+    "slug": "new-ai-initiative-aims-to-improve-everyday-digital-services-001",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Ariana Cole",
+      "publishingDate": "2026-06-01T01:00:00Z",
+      "image": "https://example.com/images/authors/author-001.jpg"
+    },
+    "excerpt": "New AI Initiative Aims to Improve Everyday Digital Services. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-001.jpg",
+    "tags": [
+      "technology",
+      "ai",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": true
+    },
+    "status": "published",
+    "views": 2137,
+    "is_todays_pick": true
+  },
+  {
+    "id": 2,
+    "title": "Researchers Highlight Latest Progress in cybersecurity",
+    "slug": "researchers-highlight-latest-progress-in-cybersecurity-002",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Marcus Reed",
+      "publishingDate": "2026-05-31T21:00:00Z",
+      "image": "https://example.com/images/authors/author-002.jpg"
+    },
+    "excerpt": "Researchers Highlight Latest Progress in cybersecurity. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-002.jpg",
+    "tags": [
+      "technology",
+      "cybersecurity",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": true
+    },
+    "status": "published",
+    "views": 3074,
+    "is_todays_pick": true
+  },
+  {
+    "id": 3,
+    "title": "Local Companies Increase Investment in smartphones",
+    "slug": "local-companies-increase-investment-in-smartphones-003",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Sophia Bennett",
+      "publishingDate": "2026-05-31T17:00:00Z",
+      "image": "https://example.com/images/authors/author-003.jpg"
+    },
+    "excerpt": "Local Companies Increase Investment in smartphones. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-003.jpg",
+    "tags": [
+      "technology",
+      "smartphones",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": false
+    },
+    "status": "published",
+    "views": 4011,
+    "is_todays_pick": true
+  },
+  {
+    "id": 4,
+    "title": "New cloud platforms Initiative Aims to Improve Everyday Digital Services",
+    "slug": "new-cloud-platforms-initiative-aims-to-improve-everyday-digital-services-004",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Daniel Harper",
+      "publishingDate": "2026-05-31T13:00:00Z",
+      "image": "https://example.com/images/authors/author-004.jpg"
+    },
+    "excerpt": "New cloud platforms Initiative Aims to Improve Everyday Digital Services. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-004.jpg",
+    "tags": [
+      "technology",
+      "cloud-platforms",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 4948,
+    "is_todays_pick": false
+  },
+  {
+    "id": 5,
+    "title": "Researchers Highlight Latest Progress in robotics",
+    "slug": "researchers-highlight-latest-progress-in-robotics-005",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Lina Morgan",
+      "publishingDate": "2026-05-31T09:00:00Z",
+      "image": "https://example.com/images/authors/author-005.jpg"
+    },
+    "excerpt": "Researchers Highlight Latest Progress in robotics. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-005.jpg",
+    "tags": [
+      "technology",
+      "robotics",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": false
+    },
+    "status": "published",
+    "views": 5885,
+    "is_todays_pick": false
+  },
+  {
+    "id": 6,
+    "title": "Local Companies Increase Investment in startups",
+    "slug": "local-companies-increase-investment-in-startups-006",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Owen Carter",
+      "publishingDate": "2026-05-31T05:00:00Z",
+      "image": "https://example.com/images/authors/author-006.jpg"
+    },
+    "excerpt": "Local Companies Increase Investment in startups. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-006.jpg",
+    "tags": [
+      "technology",
+      "startups",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": false
+    },
+    "status": "published",
+    "views": 6822,
+    "is_todays_pick": false
+  },
+  {
+    "id": 7,
+    "title": "New software Initiative Aims to Improve Everyday Digital Services",
+    "slug": "new-software-initiative-aims-to-improve-everyday-digital-services-007",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Maya Brooks",
+      "publishingDate": "2026-05-31T01:00:00Z",
+      "image": "https://example.com/images/authors/author-007.jpg"
+    },
+    "excerpt": "New software Initiative Aims to Improve Everyday Digital Services. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-007.jpg",
+    "tags": [
+      "technology",
+      "software",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": true
+    },
+    "status": "published",
+    "views": 7759,
+    "is_todays_pick": false
+  },
+  {
+    "id": 8,
+    "title": "Researchers Highlight Latest Progress in data centers",
+    "slug": "researchers-highlight-latest-progress-in-data-centers-008",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Noah Sinclair",
+      "publishingDate": "2026-05-30T21:00:00Z",
+      "image": "https://example.com/images/authors/author-008.jpg"
+    },
+    "excerpt": "Researchers Highlight Latest Progress in data centers. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-008.jpg",
+    "tags": [
+      "technology",
+      "data-centers",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": true
+    },
+    "status": "published",
+    "views": 8696,
+    "is_todays_pick": false
+  },
+  {
+    "id": 9,
+    "title": "Local Companies Increase Investment in apps",
+    "slug": "local-companies-increase-investment-in-apps-009",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Priya Shah",
+      "publishingDate": "2026-05-30T17:00:00Z",
+      "image": "https://example.com/images/authors/author-009.jpg"
+    },
+    "excerpt": "Local Companies Increase Investment in apps. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-009.jpg",
+    "tags": [
+      "technology",
+      "apps",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 9633,
+    "is_todays_pick": false
+  },
+  {
+    "id": 10,
+    "title": "New electric vehicles Initiative Aims to Improve Everyday Digital Services",
+    "slug": "new-electric-vehicles-initiative-aims-to-improve-everyday-digital-services-010",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Ethan Wells",
+      "publishingDate": "2026-05-30T13:00:00Z",
+      "image": "https://example.com/images/authors/author-010.jpg"
+    },
+    "excerpt": "New electric vehicles Initiative Aims to Improve Everyday Digital Services. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-010.jpg",
+    "tags": [
+      "technology",
+      "electric-vehicles",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.3,
+      "trending": false
+    },
+    "status": "published",
+    "views": 10570,
+    "is_todays_pick": true
+  },
+  {
+    "id": 11,
+    "title": "Researchers Highlight Latest Progress in wearables",
+    "slug": "researchers-highlight-latest-progress-in-wearables-011",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Amelia Stone",
+      "publishingDate": "2026-05-30T09:00:00Z",
+      "image": "https://example.com/images/authors/author-011.jpg"
+    },
+    "excerpt": "Researchers Highlight Latest Progress in wearables. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-011.jpg",
+    "tags": [
+      "technology",
+      "wearables",
+      "latest"
+    ],
+    "rating": {
+      "number": 5.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 11507,
+    "is_todays_pick": false
+  },
+  {
+    "id": 12,
+    "title": "Local Companies Increase Investment in semiconductors",
+    "slug": "local-companies-increase-investment-in-semiconductors-012",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Ryan Cooper",
+      "publishingDate": "2026-05-30T05:00:00Z",
+      "image": "https://example.com/images/authors/author-012.jpg"
+    },
+    "excerpt": "Local Companies Increase Investment in semiconductors. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-012.jpg",
+    "tags": [
+      "technology",
+      "semiconductors",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.4,
+      "trending": false
+    },
+    "status": "published",
+    "views": 12444,
+    "is_todays_pick": false
+  },
+  {
+    "id": 13,
+    "title": "New fintech Initiative Aims to Improve Everyday Digital Services",
+    "slug": "new-fintech-initiative-aims-to-improve-everyday-digital-services-013",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Nadia Khan",
+      "publishingDate": "2026-05-30T01:00:00Z",
+      "image": "https://example.com/images/authors/author-013.jpg"
+    },
+    "excerpt": "New fintech Initiative Aims to Improve Everyday Digital Services. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-013.jpg",
+    "tags": [
+      "technology",
+      "fintech",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 1381,
+    "is_todays_pick": false
+  },
+  {
+    "id": 14,
+    "title": "Researchers Highlight Latest Progress in digital privacy",
+    "slug": "researchers-highlight-latest-progress-in-digital-privacy-014",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Leo Martin",
+      "publishingDate": "2026-05-29T21:00:00Z",
+      "image": "https://example.com/images/authors/author-014.jpg"
+    },
+    "excerpt": "Researchers Highlight Latest Progress in digital privacy. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-014.jpg",
+    "tags": [
+      "technology",
+      "digital-privacy",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": true
+    },
+    "status": "published",
+    "views": 2318,
+    "is_todays_pick": false
+  },
+  {
+    "id": 15,
+    "title": "Local Companies Increase Investment in 5G networks",
+    "slug": "local-companies-increase-investment-in-5g-networks-015",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Grace Collins",
+      "publishingDate": "2026-05-29T17:00:00Z",
+      "image": "https://example.com/images/authors/author-015.jpg"
+    },
+    "excerpt": "Local Companies Increase Investment in 5G networks. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-015.jpg",
+    "tags": [
+      "technology",
+      "5g-networks",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": true
+    },
+    "status": "published",
+    "views": 3255,
+    "is_todays_pick": false
+  },
+  {
+    "id": 16,
+    "title": "New automation Initiative Aims to Improve Everyday Digital Services",
+    "slug": "new-automation-initiative-aims-to-improve-everyday-digital-services-016",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Ariana Cole",
+      "publishingDate": "2026-05-29T13:00:00Z",
+      "image": "https://example.com/images/authors/author-001.jpg"
+    },
+    "excerpt": "New automation Initiative Aims to Improve Everyday Digital Services. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-016.jpg",
+    "tags": [
+      "technology",
+      "automation",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": false
+    },
+    "status": "published",
+    "views": 4192,
+    "is_todays_pick": false
+  },
+  {
+    "id": 17,
+    "title": "Researchers Highlight Latest Progress in gaming hardware",
+    "slug": "researchers-highlight-latest-progress-in-gaming-hardware-017",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Marcus Reed",
+      "publishingDate": "2026-05-29T09:00:00Z",
+      "image": "https://example.com/images/authors/author-002.jpg"
+    },
+    "excerpt": "Researchers Highlight Latest Progress in gaming hardware. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-017.jpg",
+    "tags": [
+      "technology",
+      "gaming-hardware",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 5129,
+    "is_todays_pick": false
+  },
+  {
+    "id": 18,
+    "title": "Local Companies Increase Investment in online safety",
+    "slug": "local-companies-increase-investment-in-online-safety-018",
+    "category": {
+      "id": 1,
+      "name": "Technology"
+    },
+    "author": {
+      "name": "Sophia Bennett",
+      "publishingDate": "2026-05-29T05:00:00Z",
+      "image": "https://example.com/images/authors/author-003.jpg"
+    },
+    "excerpt": "Local Companies Increase Investment in online safety. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-018.jpg",
+    "tags": [
+      "technology",
+      "online-safety",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": false
+    },
+    "status": "published",
+    "views": 6066,
+    "is_todays_pick": false
+  },
+  {
+    "id": 19,
+    "title": "Analysts Report Strong Momentum in retail sales",
+    "slug": "analysts-report-strong-momentum-in-retail-sales-019",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Daniel Harper",
+      "publishingDate": "2026-05-29T01:00:00Z",
+      "image": "https://example.com/images/authors/author-004.jpg"
+    },
+    "excerpt": "Analysts Report Strong Momentum in retail sales. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-019.jpg",
+    "tags": [
+      "business",
+      "retail-sales",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": true
+    },
+    "status": "published",
+    "views": 7003,
+    "is_todays_pick": false
+  },
+  {
+    "id": 20,
+    "title": "New Policy Expected to Support market growth",
+    "slug": "new-policy-expected-to-support-market-growth-020",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Lina Morgan",
+      "publishingDate": "2026-05-28T21:00:00Z",
+      "image": "https://example.com/images/authors/author-005.jpg"
+    },
+    "excerpt": "New Policy Expected to Support market growth. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-020.jpg",
+    "tags": [
+      "business",
+      "market-growth",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": true
+    },
+    "status": "published",
+    "views": 7940,
+    "is_todays_pick": false
+  },
+  {
+    "id": 21,
+    "title": "Local Leaders Discuss Future of small businesses",
+    "slug": "local-leaders-discuss-future-of-small-businesses-021",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Owen Carter",
+      "publishingDate": "2026-05-28T17:00:00Z",
+      "image": "https://example.com/images/authors/author-006.jpg"
+    },
+    "excerpt": "Local Leaders Discuss Future of small businesses. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-021.jpg",
+    "tags": [
+      "business",
+      "small-businesses",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": true
+    },
+    "status": "published",
+    "views": 8877,
+    "is_todays_pick": false
+  },
+  {
+    "id": 22,
+    "title": "Analysts Report Strong Momentum in startups",
+    "slug": "analysts-report-strong-momentum-in-startups-022",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Maya Brooks",
+      "publishingDate": "2026-05-28T13:00:00Z",
+      "image": "https://example.com/images/authors/author-007.jpg"
+    },
+    "excerpt": "Analysts Report Strong Momentum in startups. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-022.jpg",
+    "tags": [
+      "business",
+      "startups",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": true
+    },
+    "status": "published",
+    "views": 9814,
+    "is_todays_pick": false
+  },
+  {
+    "id": 23,
+    "title": "New Policy Expected to Support exports",
+    "slug": "new-policy-expected-to-support-exports-023",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Noah Sinclair",
+      "publishingDate": "2026-05-28T09:00:00Z",
+      "image": "https://example.com/images/authors/author-008.jpg"
+    },
+    "excerpt": "New Policy Expected to Support exports. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-023.jpg",
+    "tags": [
+      "business",
+      "exports",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.3,
+      "trending": false
+    },
+    "status": "published",
+    "views": 10751,
+    "is_todays_pick": false
+  },
+  {
+    "id": 24,
+    "title": "Local Leaders Discuss Future of banking",
+    "slug": "local-leaders-discuss-future-of-banking-024",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Priya Shah",
+      "publishingDate": "2026-05-28T05:00:00Z",
+      "image": "https://example.com/images/authors/author-009.jpg"
+    },
+    "excerpt": "Local Leaders Discuss Future of banking. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-024.jpg",
+    "tags": [
+      "business",
+      "banking",
+      "latest"
+    ],
+    "rating": {
+      "number": 5.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 11688,
+    "is_todays_pick": false
+  },
+  {
+    "id": 25,
+    "title": "Analysts Report Strong Momentum in investment",
+    "slug": "analysts-report-strong-momentum-in-investment-025",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Ethan Wells",
+      "publishingDate": "2026-05-28T01:00:00Z",
+      "image": "https://example.com/images/authors/author-010.jpg"
+    },
+    "excerpt": "Analysts Report Strong Momentum in investment. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-025.jpg",
+    "tags": [
+      "business",
+      "investment",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.4,
+      "trending": false
+    },
+    "status": "published",
+    "views": 12625,
+    "is_todays_pick": true
+  },
+  {
+    "id": 26,
+    "title": "New Policy Expected to Support e-commerce",
+    "slug": "new-policy-expected-to-support-e-commerce-026",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Amelia Stone",
+      "publishingDate": "2026-05-27T21:00:00Z",
+      "image": "https://example.com/images/authors/author-011.jpg"
+    },
+    "excerpt": "New Policy Expected to Support e-commerce. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-026.jpg",
+    "tags": [
+      "business",
+      "e-commerce",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 1562,
+    "is_todays_pick": false
+  },
+  {
+    "id": 27,
+    "title": "Local Leaders Discuss Future of supply chains",
+    "slug": "local-leaders-discuss-future-of-supply-chains-027",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Ryan Cooper",
+      "publishingDate": "2026-05-27T17:00:00Z",
+      "image": "https://example.com/images/authors/author-012.jpg"
+    },
+    "excerpt": "Local Leaders Discuss Future of supply chains. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-027.jpg",
+    "tags": [
+      "business",
+      "supply-chains",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": false
+    },
+    "status": "published",
+    "views": 2499,
+    "is_todays_pick": false
+  },
+  {
+    "id": 28,
+    "title": "Analysts Report Strong Momentum in real estate",
+    "slug": "analysts-report-strong-momentum-in-real-estate-028",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Nadia Khan",
+      "publishingDate": "2026-05-27T13:00:00Z",
+      "image": "https://example.com/images/authors/author-013.jpg"
+    },
+    "excerpt": "Analysts Report Strong Momentum in real estate. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-028.jpg",
+    "tags": [
+      "business",
+      "real-estate",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": true
+    },
+    "status": "published",
+    "views": 3436,
+    "is_todays_pick": false
+  },
+  {
+    "id": 29,
+    "title": "New Policy Expected to Support job market",
+    "slug": "new-policy-expected-to-support-job-market-029",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Leo Martin",
+      "publishingDate": "2026-05-27T09:00:00Z",
+      "image": "https://example.com/images/authors/author-014.jpg"
+    },
+    "excerpt": "New Policy Expected to Support job market. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-029.jpg",
+    "tags": [
+      "business",
+      "job-market",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": true
+    },
+    "status": "published",
+    "views": 4373,
+    "is_todays_pick": false
+  },
+  {
+    "id": 30,
+    "title": "Local Leaders Discuss Future of manufacturing",
+    "slug": "local-leaders-discuss-future-of-manufacturing-030",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Grace Collins",
+      "publishingDate": "2026-05-27T05:00:00Z",
+      "image": "https://example.com/images/authors/author-015.jpg"
+    },
+    "excerpt": "Local Leaders Discuss Future of manufacturing. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-030.jpg",
+    "tags": [
+      "business",
+      "manufacturing",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 5310,
+    "is_todays_pick": false
+  },
+  {
+    "id": 31,
+    "title": "Analysts Report Strong Momentum in tourism sector",
+    "slug": "analysts-report-strong-momentum-in-tourism-sector-031",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Ariana Cole",
+      "publishingDate": "2026-05-27T01:00:00Z",
+      "image": "https://example.com/images/authors/author-001.jpg"
+    },
+    "excerpt": "Analysts Report Strong Momentum in tourism sector. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-031.jpg",
+    "tags": [
+      "business",
+      "tourism-sector",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": false
+    },
+    "status": "published",
+    "views": 6247,
+    "is_todays_pick": false
+  },
+  {
+    "id": 32,
+    "title": "New Policy Expected to Support consumer spending",
+    "slug": "new-policy-expected-to-support-consumer-spending-032",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Marcus Reed",
+      "publishingDate": "2026-05-26T21:00:00Z",
+      "image": "https://example.com/images/authors/author-002.jpg"
+    },
+    "excerpt": "New Policy Expected to Support consumer spending. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-032.jpg",
+    "tags": [
+      "business",
+      "consumer-spending",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": false
+    },
+    "status": "published",
+    "views": 7184,
+    "is_todays_pick": false
+  },
+  {
+    "id": 33,
+    "title": "Local Leaders Discuss Future of local entrepreneurs",
+    "slug": "local-leaders-discuss-future-of-local-entrepreneurs-033",
+    "category": {
+      "id": 2,
+      "name": "Business"
+    },
+    "author": {
+      "name": "Sophia Bennett",
+      "publishingDate": "2026-05-26T17:00:00Z",
+      "image": "https://example.com/images/authors/author-003.jpg"
+    },
+    "excerpt": "Local Leaders Discuss Future of local entrepreneurs. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-033.jpg",
+    "tags": [
+      "business",
+      "local-entrepreneurs",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 8121,
+    "is_todays_pick": false
+  },
+  {
+    "id": 34,
+    "title": "Football Team Celebrates Big Win After Close Final",
+    "slug": "football-team-celebrates-big-win-after-close-final-034",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Daniel Harper",
+      "publishingDate": "2026-05-26T13:00:00Z",
+      "image": "https://example.com/images/authors/author-004.jpg"
+    },
+    "excerpt": "Football Team Celebrates Big Win After Close Final. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-034.jpg",
+    "tags": [
+      "sports",
+      "football",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": true
+    },
+    "status": "published",
+    "views": 9058,
+    "is_todays_pick": false
+  },
+  {
+    "id": 35,
+    "title": "Young Athletes Gain Attention in cricket",
+    "slug": "young-athletes-gain-attention-in-cricket-035",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Lina Morgan",
+      "publishingDate": "2026-05-26T09:00:00Z",
+      "image": "https://example.com/images/authors/author-005.jpg"
+    },
+    "excerpt": "Young Athletes Gain Attention in cricket. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-035.jpg",
+    "tags": [
+      "sports",
+      "cricket",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": true
+    },
+    "status": "published",
+    "views": 9995,
+    "is_todays_pick": false
+  },
+  {
+    "id": 36,
+    "title": "Coaches Announce New Plans for basketball Season",
+    "slug": "coaches-announce-new-plans-for-basketball-season-036",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Owen Carter",
+      "publishingDate": "2026-05-26T05:00:00Z",
+      "image": "https://example.com/images/authors/author-006.jpg"
+    },
+    "excerpt": "Coaches Announce New Plans for basketball Season. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-036.jpg",
+    "tags": [
+      "sports",
+      "basketball",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.3,
+      "trending": true
+    },
+    "status": "published",
+    "views": 10932,
+    "is_todays_pick": false
+  },
+  {
+    "id": 37,
+    "title": "Tennis Team Celebrates Big Win After Close Final",
+    "slug": "tennis-team-celebrates-big-win-after-close-final-037",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Maya Brooks",
+      "publishingDate": "2026-05-26T01:00:00Z",
+      "image": "https://example.com/images/authors/author-007.jpg"
+    },
+    "excerpt": "Tennis Team Celebrates Big Win After Close Final. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-037.jpg",
+    "tags": [
+      "sports",
+      "tennis",
+      "latest"
+    ],
+    "rating": {
+      "number": 5.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 11869,
+    "is_todays_pick": false
+  },
+  {
+    "id": 38,
+    "title": "Young Athletes Gain Attention in athletics",
+    "slug": "young-athletes-gain-attention-in-athletics-038",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Noah Sinclair",
+      "publishingDate": "2026-05-25T21:00:00Z",
+      "image": "https://example.com/images/authors/author-008.jpg"
+    },
+    "excerpt": "Young Athletes Gain Attention in athletics. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-038.jpg",
+    "tags": [
+      "sports",
+      "athletics",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.4,
+      "trending": false
+    },
+    "status": "published",
+    "views": 12806,
+    "is_todays_pick": false
+  },
+  {
+    "id": 39,
+    "title": "Coaches Announce New Plans for swimming Season",
+    "slug": "coaches-announce-new-plans-for-swimming-season-039",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Priya Shah",
+      "publishingDate": "2026-05-25T17:00:00Z",
+      "image": "https://example.com/images/authors/author-009.jpg"
+    },
+    "excerpt": "Coaches Announce New Plans for swimming Season. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-039.jpg",
+    "tags": [
+      "sports",
+      "swimming",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 1743,
+    "is_todays_pick": false
+  },
+  {
+    "id": 40,
+    "title": "Cycling Team Celebrates Big Win After Close Final",
+    "slug": "cycling-team-celebrates-big-win-after-close-final-040",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Ethan Wells",
+      "publishingDate": "2026-05-25T13:00:00Z",
+      "image": "https://example.com/images/authors/author-010.jpg"
+    },
+    "excerpt": "Cycling Team Celebrates Big Win After Close Final. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-040.jpg",
+    "tags": [
+      "sports",
+      "cycling",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": false
+    },
+    "status": "published",
+    "views": 2680,
+    "is_todays_pick": false
+  },
+  {
+    "id": 41,
+    "title": "Young Athletes Gain Attention in volleyball",
+    "slug": "young-athletes-gain-attention-in-volleyball-041",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Amelia Stone",
+      "publishingDate": "2026-05-25T09:00:00Z",
+      "image": "https://example.com/images/authors/author-011.jpg"
+    },
+    "excerpt": "Young Athletes Gain Attention in volleyball. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-041.jpg",
+    "tags": [
+      "sports",
+      "volleyball",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 3617,
+    "is_todays_pick": false
+  },
+  {
+    "id": 42,
+    "title": "Coaches Announce New Plans for badminton Season",
+    "slug": "coaches-announce-new-plans-for-badminton-season-042",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Ryan Cooper",
+      "publishingDate": "2026-05-25T05:00:00Z",
+      "image": "https://example.com/images/authors/author-012.jpg"
+    },
+    "excerpt": "Coaches Announce New Plans for badminton Season. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-042.jpg",
+    "tags": [
+      "sports",
+      "badminton",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": true
+    },
+    "status": "published",
+    "views": 4554,
+    "is_todays_pick": false
+  },
+  {
+    "id": 43,
+    "title": "Baseball Team Celebrates Big Win After Close Final",
+    "slug": "baseball-team-celebrates-big-win-after-close-final-043",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Nadia Khan",
+      "publishingDate": "2026-05-25T01:00:00Z",
+      "image": "https://example.com/images/authors/author-013.jpg"
+    },
+    "excerpt": "Baseball Team Celebrates Big Win After Close Final. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-043.jpg",
+    "tags": [
+      "sports",
+      "baseball",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": true
+    },
+    "status": "published",
+    "views": 5491,
+    "is_todays_pick": false
+  },
+  {
+    "id": 44,
+    "title": "Young Athletes Gain Attention in marathon",
+    "slug": "young-athletes-gain-attention-in-marathon-044",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Leo Martin",
+      "publishingDate": "2026-05-24T21:00:00Z",
+      "image": "https://example.com/images/authors/author-014.jpg"
+    },
+    "excerpt": "Young Athletes Gain Attention in marathon. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-044.jpg",
+    "tags": [
+      "sports",
+      "marathon",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": false
+    },
+    "status": "published",
+    "views": 6428,
+    "is_todays_pick": false
+  },
+  {
+    "id": 45,
+    "title": "Coaches Announce New Plans for youth league Season",
+    "slug": "coaches-announce-new-plans-for-youth-league-season-045",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Grace Collins",
+      "publishingDate": "2026-05-24T17:00:00Z",
+      "image": "https://example.com/images/authors/author-015.jpg"
+    },
+    "excerpt": "Coaches Announce New Plans for youth league Season. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-045.jpg",
+    "tags": [
+      "sports",
+      "youth-league",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": false
+    },
+    "status": "published",
+    "views": 7365,
+    "is_todays_pick": false
+  },
+  {
+    "id": 46,
+    "title": "Championship Team Celebrates Big Win After Close Final",
+    "slug": "championship-team-celebrates-big-win-after-close-final-046",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Ariana Cole",
+      "publishingDate": "2026-05-24T13:00:00Z",
+      "image": "https://example.com/images/authors/author-001.jpg"
+    },
+    "excerpt": "Championship Team Celebrates Big Win After Close Final. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-046.jpg",
+    "tags": [
+      "sports",
+      "championship",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 8302,
+    "is_todays_pick": false
+  },
+  {
+    "id": 47,
+    "title": "Young Athletes Gain Attention in training camp",
+    "slug": "young-athletes-gain-attention-in-training-camp-047",
+    "category": {
+      "id": 3,
+      "name": "Sports"
+    },
+    "author": {
+      "name": "Marcus Reed",
+      "publishingDate": "2026-05-24T09:00:00Z",
+      "image": "https://example.com/images/authors/author-002.jpg"
+    },
+    "excerpt": "Young Athletes Gain Attention in training camp. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-047.jpg",
+    "tags": [
+      "sports",
+      "training-camp",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": false
+    },
+    "status": "published",
+    "views": 9239,
+    "is_todays_pick": false
+  },
+  {
+    "id": 48,
+    "title": "Global Leaders Hold Talks on climate talks",
+    "slug": "global-leaders-hold-talks-on-climate-talks-048",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Sophia Bennett",
+      "publishingDate": "2026-05-24T05:00:00Z",
+      "image": "https://example.com/images/authors/author-003.jpg"
+    },
+    "excerpt": "Global Leaders Hold Talks on climate talks. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-048.jpg",
+    "tags": [
+      "world",
+      "climate-talks",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 10176,
+    "is_todays_pick": false
+  },
+  {
+    "id": 49,
+    "title": "New Agreement Focuses on trade cooperation",
+    "slug": "new-agreement-focuses-on-trade-cooperation-049",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Daniel Harper",
+      "publishingDate": "2026-05-24T01:00:00Z",
+      "image": "https://example.com/images/authors/author-004.jpg"
+    },
+    "excerpt": "New Agreement Focuses on trade cooperation. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-049.jpg",
+    "tags": [
+      "world",
+      "trade-cooperation",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.3,
+      "trending": true
+    },
+    "status": "published",
+    "views": 11113,
+    "is_todays_pick": false
+  },
+  {
+    "id": 50,
+    "title": "International Groups Respond to Changes in regional summit",
+    "slug": "international-groups-respond-to-changes-in-regional-summit-050",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Lina Morgan",
+      "publishingDate": "2026-05-23T21:00:00Z",
+      "image": "https://example.com/images/authors/author-005.jpg"
+    },
+    "excerpt": "International Groups Respond to Changes in regional summit. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-050.jpg",
+    "tags": [
+      "world",
+      "regional-summit",
+      "latest"
+    ],
+    "rating": {
+      "number": 5.0,
+      "trending": true
+    },
+    "status": "published",
+    "views": 12050,
+    "is_todays_pick": true
+  },
+  {
+    "id": 51,
+    "title": "Global Leaders Hold Talks on peace negotiations",
+    "slug": "global-leaders-hold-talks-on-peace-negotiations-051",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Owen Carter",
+      "publishingDate": "2026-05-23T17:00:00Z",
+      "image": "https://example.com/images/authors/author-006.jpg"
+    },
+    "excerpt": "Global Leaders Hold Talks on peace negotiations. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-051.jpg",
+    "tags": [
+      "world",
+      "peace-negotiations",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.4,
+      "trending": false
+    },
+    "status": "published",
+    "views": 12987,
+    "is_todays_pick": false
+  },
+  {
+    "id": 52,
+    "title": "New Agreement Focuses on humanitarian aid",
+    "slug": "new-agreement-focuses-on-humanitarian-aid-052",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Maya Brooks",
+      "publishingDate": "2026-05-23T13:00:00Z",
+      "image": "https://example.com/images/authors/author-007.jpg"
+    },
+    "excerpt": "New Agreement Focuses on humanitarian aid. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-052.jpg",
+    "tags": [
+      "world",
+      "humanitarian-aid",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 1924,
+    "is_todays_pick": false
+  },
+  {
+    "id": 53,
+    "title": "International Groups Respond to Changes in elections",
+    "slug": "international-groups-respond-to-changes-in-elections-053",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Noah Sinclair",
+      "publishingDate": "2026-05-23T09:00:00Z",
+      "image": "https://example.com/images/authors/author-008.jpg"
+    },
+    "excerpt": "International Groups Respond to Changes in elections. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-053.jpg",
+    "tags": [
+      "world",
+      "elections",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": false
+    },
+    "status": "published",
+    "views": 2861,
+    "is_todays_pick": false
+  },
+  {
+    "id": 54,
+    "title": "Global Leaders Hold Talks on migration policy",
+    "slug": "global-leaders-hold-talks-on-migration-policy-054",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Priya Shah",
+      "publishingDate": "2026-05-23T05:00:00Z",
+      "image": "https://example.com/images/authors/author-009.jpg"
+    },
+    "excerpt": "Global Leaders Hold Talks on migration policy. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-054.jpg",
+    "tags": [
+      "world",
+      "migration-policy",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 3798,
+    "is_todays_pick": false
+  },
+  {
+    "id": 55,
+    "title": "New Agreement Focuses on security forum",
+    "slug": "new-agreement-focuses-on-security-forum-055",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Ethan Wells",
+      "publishingDate": "2026-05-23T01:00:00Z",
+      "image": "https://example.com/images/authors/author-010.jpg"
+    },
+    "excerpt": "New Agreement Focuses on security forum. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-055.jpg",
+    "tags": [
+      "world",
+      "security-forum",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": false
+    },
+    "status": "published",
+    "views": 4735,
+    "is_todays_pick": false
+  },
+  {
+    "id": 56,
+    "title": "International Groups Respond to Changes in global economy",
+    "slug": "international-groups-respond-to-changes-in-global-economy-056",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Amelia Stone",
+      "publishingDate": "2026-05-22T21:00:00Z",
+      "image": "https://example.com/images/authors/author-011.jpg"
+    },
+    "excerpt": "International Groups Respond to Changes in global economy. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-056.jpg",
+    "tags": [
+      "world",
+      "global-economy",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": true
+    },
+    "status": "published",
+    "views": 5672,
+    "is_todays_pick": false
+  },
+  {
+    "id": 57,
+    "title": "Global Leaders Hold Talks on diplomatic visit",
+    "slug": "global-leaders-hold-talks-on-diplomatic-visit-057",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Ryan Cooper",
+      "publishingDate": "2026-05-22T17:00:00Z",
+      "image": "https://example.com/images/authors/author-012.jpg"
+    },
+    "excerpt": "Global Leaders Hold Talks on diplomatic visit. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-057.jpg",
+    "tags": [
+      "world",
+      "diplomatic-visit",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": true
+    },
+    "status": "published",
+    "views": 6609,
+    "is_todays_pick": false
+  },
+  {
+    "id": 58,
+    "title": "New Agreement Focuses on border talks",
+    "slug": "new-agreement-focuses-on-border-talks-058",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Nadia Khan",
+      "publishingDate": "2026-05-22T13:00:00Z",
+      "image": "https://example.com/images/authors/author-013.jpg"
+    },
+    "excerpt": "New Agreement Focuses on border talks. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-058.jpg",
+    "tags": [
+      "world",
+      "border-talks",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": false
+    },
+    "status": "published",
+    "views": 7546,
+    "is_todays_pick": false
+  },
+  {
+    "id": 59,
+    "title": "International Groups Respond to Changes in public health response",
+    "slug": "international-groups-respond-to-changes-in-public-health-response-059",
+    "category": {
+      "id": 4,
+      "name": "World"
+    },
+    "author": {
+      "name": "Leo Martin",
+      "publishingDate": "2026-05-22T09:00:00Z",
+      "image": "https://example.com/images/authors/author-014.jpg"
+    },
+    "excerpt": "International Groups Respond to Changes in public health response. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-059.jpg",
+    "tags": [
+      "world",
+      "public-health-response",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 8483,
+    "is_todays_pick": false
+  },
+  {
+    "id": 60,
+    "title": "Fans React as film festival Draws Record Attention",
+    "slug": "fans-react-as-film-festival-draws-record-attention-060",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Grace Collins",
+      "publishingDate": "2026-05-22T05:00:00Z",
+      "image": "https://example.com/images/authors/author-015.jpg"
+    },
+    "excerpt": "Fans React as film festival Draws Record Attention. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-060.jpg",
+    "tags": [
+      "entertainment",
+      "film-festival",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": false
+    },
+    "status": "published",
+    "views": 9420,
+    "is_todays_pick": false
+  },
+  {
+    "id": 61,
+    "title": "New music tour Announcement Creates Buzz Online",
+    "slug": "new-music-tour-announcement-creates-buzz-online-061",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Ariana Cole",
+      "publishingDate": "2026-05-22T01:00:00Z",
+      "image": "https://example.com/images/authors/author-001.jpg"
+    },
+    "excerpt": "New music tour Announcement Creates Buzz Online. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-061.jpg",
+    "tags": [
+      "entertainment",
+      "music-tour",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 10357,
+    "is_todays_pick": false
+  },
+  {
+    "id": 62,
+    "title": "Artists Gather for Major streaming series",
+    "slug": "artists-gather-for-major-streaming-series-062",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Marcus Reed",
+      "publishingDate": "2026-05-21T21:00:00Z",
+      "image": "https://example.com/images/authors/author-002.jpg"
+    },
+    "excerpt": "Artists Gather for Major streaming series. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-062.jpg",
+    "tags": [
+      "entertainment",
+      "streaming-series",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.3,
+      "trending": false
+    },
+    "status": "published",
+    "views": 11294,
+    "is_todays_pick": false
+  },
+  {
+    "id": 63,
+    "title": "Fans React as award show Draws Record Attention",
+    "slug": "fans-react-as-award-show-draws-record-attention-063",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Sophia Bennett",
+      "publishingDate": "2026-05-21T17:00:00Z",
+      "image": "https://example.com/images/authors/author-003.jpg"
+    },
+    "excerpt": "Fans React as award show Draws Record Attention. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-063.jpg",
+    "tags": [
+      "entertainment",
+      "award-show",
+      "latest"
+    ],
+    "rating": {
+      "number": 5.0,
+      "trending": true
+    },
+    "status": "published",
+    "views": 12231,
+    "is_todays_pick": false
+  },
+  {
+    "id": 64,
+    "title": "New theater launch Announcement Creates Buzz Online",
+    "slug": "new-theater-launch-announcement-creates-buzz-online-064",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Daniel Harper",
+      "publishingDate": "2026-05-21T13:00:00Z",
+      "image": "https://example.com/images/authors/author-004.jpg"
+    },
+    "excerpt": "New theater launch Announcement Creates Buzz Online. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-064.jpg",
+    "tags": [
+      "entertainment",
+      "theater-launch",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.4,
+      "trending": true
+    },
+    "status": "published",
+    "views": 13168,
+    "is_todays_pick": false
+  },
+  {
+    "id": 65,
+    "title": "Artists Gather for Major celebrity interview",
+    "slug": "artists-gather-for-major-celebrity-interview-065",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Lina Morgan",
+      "publishingDate": "2026-05-21T09:00:00Z",
+      "image": "https://example.com/images/authors/author-005.jpg"
+    },
+    "excerpt": "Artists Gather for Major celebrity interview. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-065.jpg",
+    "tags": [
+      "entertainment",
+      "celebrity-interview",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 2105,
+    "is_todays_pick": false
+  },
+  {
+    "id": 66,
+    "title": "Fans React as album release Draws Record Attention",
+    "slug": "fans-react-as-album-release-draws-record-attention-066",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Owen Carter",
+      "publishingDate": "2026-05-21T05:00:00Z",
+      "image": "https://example.com/images/authors/author-006.jpg"
+    },
+    "excerpt": "Fans React as album release Draws Record Attention. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-066.jpg",
+    "tags": [
+      "entertainment",
+      "album-release",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": false
+    },
+    "status": "published",
+    "views": 3042,
+    "is_todays_pick": false
+  },
+  {
+    "id": 67,
+    "title": "New documentary Announcement Creates Buzz Online",
+    "slug": "new-documentary-announcement-creates-buzz-online-067",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Maya Brooks",
+      "publishingDate": "2026-05-21T01:00:00Z",
+      "image": "https://example.com/images/authors/author-007.jpg"
+    },
+    "excerpt": "New documentary Announcement Creates Buzz Online. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-067.jpg",
+    "tags": [
+      "entertainment",
+      "documentary",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 3979,
+    "is_todays_pick": false
+  },
+  {
+    "id": 68,
+    "title": "Artists Gather for Major gaming event",
+    "slug": "artists-gather-for-major-gaming-event-068",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Noah Sinclair",
+      "publishingDate": "2026-05-20T21:00:00Z",
+      "image": "https://example.com/images/authors/author-008.jpg"
+    },
+    "excerpt": "Artists Gather for Major gaming event. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-068.jpg",
+    "tags": [
+      "entertainment",
+      "gaming-event",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": false
+    },
+    "status": "published",
+    "views": 4916,
+    "is_todays_pick": false
+  },
+  {
+    "id": 69,
+    "title": "Fans React as art exhibition Draws Record Attention",
+    "slug": "fans-react-as-art-exhibition-draws-record-attention-069",
+    "category": {
+      "id": 5,
+      "name": "Entertainment"
+    },
+    "author": {
+      "name": "Priya Shah",
+      "publishingDate": "2026-05-20T17:00:00Z",
+      "image": "https://example.com/images/authors/author-009.jpg"
+    },
+    "excerpt": "Fans React as art exhibition Draws Record Attention. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-069.jpg",
+    "tags": [
+      "entertainment",
+      "art-exhibition",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 5853,
+    "is_todays_pick": false
+  },
+  {
+    "id": 70,
+    "title": "Experts Share New Guidance on mental health",
+    "slug": "experts-share-new-guidance-on-mental-health-070",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Ethan Wells",
+      "publishingDate": "2026-05-20T13:00:00Z",
+      "image": "https://example.com/images/authors/author-010.jpg"
+    },
+    "excerpt": "Experts Share New Guidance on mental health. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-070.jpg",
+    "tags": [
+      "health",
+      "mental-health",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": true
+    },
+    "status": "published",
+    "views": 6790,
+    "is_todays_pick": false
+  },
+  {
+    "id": 71,
+    "title": "Community Program Expands Access to community clinics",
+    "slug": "community-program-expands-access-to-community-clinics-071",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Amelia Stone",
+      "publishingDate": "2026-05-20T09:00:00Z",
+      "image": "https://example.com/images/authors/author-011.jpg"
+    },
+    "excerpt": "Community Program Expands Access to community clinics. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-071.jpg",
+    "tags": [
+      "health",
+      "community-clinics",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": true
+    },
+    "status": "published",
+    "views": 7727,
+    "is_todays_pick": false
+  },
+  {
+    "id": 72,
+    "title": "Doctors Encourage Awareness Around nutrition",
+    "slug": "doctors-encourage-awareness-around-nutrition-072",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Ryan Cooper",
+      "publishingDate": "2026-05-20T05:00:00Z",
+      "image": "https://example.com/images/authors/author-012.jpg"
+    },
+    "excerpt": "Doctors Encourage Awareness Around nutrition. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-072.jpg",
+    "tags": [
+      "health",
+      "nutrition",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": false
+    },
+    "status": "published",
+    "views": 8664,
+    "is_todays_pick": false
+  },
+  {
+    "id": 73,
+    "title": "Experts Share New Guidance on vaccination",
+    "slug": "experts-share-new-guidance-on-vaccination-073",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Nadia Khan",
+      "publishingDate": "2026-05-20T01:00:00Z",
+      "image": "https://example.com/images/authors/author-013.jpg"
+    },
+    "excerpt": "Experts Share New Guidance on vaccination. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-073.jpg",
+    "tags": [
+      "health",
+      "vaccination",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": false
+    },
+    "status": "published",
+    "views": 9601,
+    "is_todays_pick": false
+  },
+  {
+    "id": 74,
+    "title": "Community Program Expands Access to fitness programs",
+    "slug": "community-program-expands-access-to-fitness-programs-074",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Leo Martin",
+      "publishingDate": "2026-05-19T21:00:00Z",
+      "image": "https://example.com/images/authors/author-014.jpg"
+    },
+    "excerpt": "Community Program Expands Access to fitness programs. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-074.jpg",
+    "tags": [
+      "health",
+      "fitness-programs",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 10538,
+    "is_todays_pick": false
+  },
+  {
+    "id": 75,
+    "title": "Doctors Encourage Awareness Around elder care",
+    "slug": "doctors-encourage-awareness-around-elder-care-075",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Grace Collins",
+      "publishingDate": "2026-05-19T17:00:00Z",
+      "image": "https://example.com/images/authors/author-015.jpg"
+    },
+    "excerpt": "Doctors Encourage Awareness Around elder care. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-075.jpg",
+    "tags": [
+      "health",
+      "elder-care",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.3,
+      "trending": false
+    },
+    "status": "published",
+    "views": 11475,
+    "is_todays_pick": true
+  },
+  {
+    "id": 76,
+    "title": "Experts Share New Guidance on public hospitals",
+    "slug": "experts-share-new-guidance-on-public-hospitals-076",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Ariana Cole",
+      "publishingDate": "2026-05-19T13:00:00Z",
+      "image": "https://example.com/images/authors/author-001.jpg"
+    },
+    "excerpt": "Experts Share New Guidance on public hospitals. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-076.jpg",
+    "tags": [
+      "health",
+      "public-hospitals",
+      "latest"
+    ],
+    "rating": {
+      "number": 5.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 12412,
+    "is_todays_pick": false
+  },
+  {
+    "id": 77,
+    "title": "Community Program Expands Access to sleep habits",
+    "slug": "community-program-expands-access-to-sleep-habits-077",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Marcus Reed",
+      "publishingDate": "2026-05-19T09:00:00Z",
+      "image": "https://example.com/images/authors/author-002.jpg"
+    },
+    "excerpt": "Community Program Expands Access to sleep habits. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-077.jpg",
+    "tags": [
+      "health",
+      "sleep-habits",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.4,
+      "trending": true
+    },
+    "status": "published",
+    "views": 1349,
+    "is_todays_pick": false
+  },
+  {
+    "id": 78,
+    "title": "Doctors Encourage Awareness Around preventive screenings",
+    "slug": "doctors-encourage-awareness-around-preventive-screenings-078",
+    "category": {
+      "id": 6,
+      "name": "Health"
+    },
+    "author": {
+      "name": "Sophia Bennett",
+      "publishingDate": "2026-05-19T05:00:00Z",
+      "image": "https://example.com/images/authors/author-003.jpg"
+    },
+    "excerpt": "Doctors Encourage Awareness Around preventive screenings. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-078.jpg",
+    "tags": [
+      "health",
+      "preventive-screenings",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.8,
+      "trending": true
+    },
+    "status": "published",
+    "views": 2286,
+    "is_todays_pick": false
+  },
+  {
+    "id": 79,
+    "title": "Scientists Publish New Findings on space research",
+    "slug": "scientists-publish-new-findings-on-space-research-079",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Daniel Harper",
+      "publishingDate": "2026-05-19T01:00:00Z",
+      "image": "https://example.com/images/authors/author-004.jpg"
+    },
+    "excerpt": "Scientists Publish New Findings on space research. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-079.jpg",
+    "tags": [
+      "science",
+      "space-research",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": false
+    },
+    "status": "published",
+    "views": 3223,
+    "is_todays_pick": false
+  },
+  {
+    "id": 80,
+    "title": "Research Team Tracks Breakthrough in ocean study",
+    "slug": "research-team-tracks-breakthrough-in-ocean-study-080",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Lina Morgan",
+      "publishingDate": "2026-05-18T21:00:00Z",
+      "image": "https://example.com/images/authors/author-005.jpg"
+    },
+    "excerpt": "Research Team Tracks Breakthrough in ocean study. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-080.jpg",
+    "tags": [
+      "science",
+      "ocean-study",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 4160,
+    "is_todays_pick": false
+  },
+  {
+    "id": 81,
+    "title": "New Study Offers Fresh Insight Into renewable energy",
+    "slug": "new-study-offers-fresh-insight-into-renewable-energy-081",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Owen Carter",
+      "publishingDate": "2026-05-18T17:00:00Z",
+      "image": "https://example.com/images/authors/author-006.jpg"
+    },
+    "excerpt": "New Study Offers Fresh Insight Into renewable energy. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-081.jpg",
+    "tags": [
+      "science",
+      "renewable-energy",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": false
+    },
+    "status": "published",
+    "views": 5097,
+    "is_todays_pick": false
+  },
+  {
+    "id": 82,
+    "title": "Scientists Publish New Findings on genetics",
+    "slug": "scientists-publish-new-findings-on-genetics-082",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Maya Brooks",
+      "publishingDate": "2026-05-18T13:00:00Z",
+      "image": "https://example.com/images/authors/author-007.jpg"
+    },
+    "excerpt": "Scientists Publish New Findings on genetics. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-082.jpg",
+    "tags": [
+      "science",
+      "genetics",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 6034,
+    "is_todays_pick": false
+  },
+  {
+    "id": 83,
+    "title": "Research Team Tracks Breakthrough in wildlife tracking",
+    "slug": "research-team-tracks-breakthrough-in-wildlife-tracking-083",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Noah Sinclair",
+      "publishingDate": "2026-05-18T09:00:00Z",
+      "image": "https://example.com/images/authors/author-008.jpg"
+    },
+    "excerpt": "Research Team Tracks Breakthrough in wildlife tracking. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-083.jpg",
+    "tags": [
+      "science",
+      "wildlife-tracking",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": false
+    },
+    "status": "published",
+    "views": 6971,
+    "is_todays_pick": false
+  },
+  {
+    "id": 84,
+    "title": "New Study Offers Fresh Insight Into climate models",
+    "slug": "new-study-offers-fresh-insight-into-climate-models-084",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Priya Shah",
+      "publishingDate": "2026-05-18T05:00:00Z",
+      "image": "https://example.com/images/authors/author-009.jpg"
+    },
+    "excerpt": "New Study Offers Fresh Insight Into climate models. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-084.jpg",
+    "tags": [
+      "science",
+      "climate-models",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": true
+    },
+    "status": "published",
+    "views": 7908,
+    "is_todays_pick": false
+  },
+  {
+    "id": 85,
+    "title": "Scientists Publish New Findings on particle physics",
+    "slug": "scientists-publish-new-findings-on-particle-physics-085",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Ethan Wells",
+      "publishingDate": "2026-05-18T01:00:00Z",
+      "image": "https://example.com/images/authors/author-010.jpg"
+    },
+    "excerpt": "Scientists Publish New Findings on particle physics. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-085.jpg",
+    "tags": [
+      "science",
+      "particle-physics",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": true
+    },
+    "status": "published",
+    "views": 8845,
+    "is_todays_pick": false
+  },
+  {
+    "id": 86,
+    "title": "Research Team Tracks Breakthrough in medical research",
+    "slug": "research-team-tracks-breakthrough-in-medical-research-086",
+    "category": {
+      "id": 7,
+      "name": "Science"
+    },
+    "author": {
+      "name": "Amelia Stone",
+      "publishingDate": "2026-05-17T21:00:00Z",
+      "image": "https://example.com/images/authors/author-011.jpg"
+    },
+    "excerpt": "Research Team Tracks Breakthrough in medical research. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-086.jpg",
+    "tags": [
+      "science",
+      "medical-research",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": false
+    },
+    "status": "published",
+    "views": 9782,
+    "is_todays_pick": false
+  },
+  {
+    "id": 87,
+    "title": "City Launches New Plan for tree planting",
+    "slug": "city-launches-new-plan-for-tree-planting-087",
+    "category": {
+      "id": 8,
+      "name": "Environment"
+    },
+    "author": {
+      "name": "Ryan Cooper",
+      "publishingDate": "2026-05-17T17:00:00Z",
+      "image": "https://example.com/images/authors/author-012.jpg"
+    },
+    "excerpt": "City Launches New Plan for tree planting. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-087.jpg",
+    "tags": [
+      "environment",
+      "tree-planting",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 10719,
+    "is_todays_pick": false
+  },
+  {
+    "id": 88,
+    "title": "Volunteers Join Effort Supporting recycling",
+    "slug": "volunteers-join-effort-supporting-recycling-088",
+    "category": {
+      "id": 8,
+      "name": "Environment"
+    },
+    "author": {
+      "name": "Nadia Khan",
+      "publishingDate": "2026-05-17T13:00:00Z",
+      "image": "https://example.com/images/authors/author-013.jpg"
+    },
+    "excerpt": "Volunteers Join Effort Supporting recycling. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-088.jpg",
+    "tags": [
+      "environment",
+      "recycling",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.3,
+      "trending": false
+    },
+    "status": "published",
+    "views": 11656,
+    "is_todays_pick": false
+  },
+  {
+    "id": 89,
+    "title": "Officials Announce Funding for clean energy",
+    "slug": "officials-announce-funding-for-clean-energy-089",
+    "category": {
+      "id": 8,
+      "name": "Environment"
+    },
+    "author": {
+      "name": "Leo Martin",
+      "publishingDate": "2026-05-17T09:00:00Z",
+      "image": "https://example.com/images/authors/author-014.jpg"
+    },
+    "excerpt": "Officials Announce Funding for clean energy. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-089.jpg",
+    "tags": [
+      "environment",
+      "clean-energy",
+      "latest"
+    ],
+    "rating": {
+      "number": 5.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 12593,
+    "is_todays_pick": false
+  },
+  {
+    "id": 90,
+    "title": "City Launches New Plan for river cleanup",
+    "slug": "city-launches-new-plan-for-river-cleanup-090",
+    "category": {
+      "id": 8,
+      "name": "Environment"
+    },
+    "author": {
+      "name": "Grace Collins",
+      "publishingDate": "2026-05-17T05:00:00Z",
+      "image": "https://example.com/images/authors/author-015.jpg"
+    },
+    "excerpt": "City Launches New Plan for river cleanup. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-090.jpg",
+    "tags": [
+      "environment",
+      "river-cleanup",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.4,
+      "trending": false
+    },
+    "status": "published",
+    "views": 1530,
+    "is_todays_pick": false
+  },
+  {
+    "id": 91,
+    "title": "Volunteers Join Effort Supporting air quality",
+    "slug": "volunteers-join-effort-supporting-air-quality-091",
+    "category": {
+      "id": 8,
+      "name": "Environment"
+    },
+    "author": {
+      "name": "Ariana Cole",
+      "publishingDate": "2026-05-17T01:00:00Z",
+      "image": "https://example.com/images/authors/author-001.jpg"
+    },
+    "excerpt": "Volunteers Join Effort Supporting air quality. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-091.jpg",
+    "tags": [
+      "environment",
+      "air-quality",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.8,
+      "trending": true
+    },
+    "status": "published",
+    "views": 2467,
+    "is_todays_pick": false
+  },
+  {
+    "id": 92,
+    "title": "Officials Announce Funding for wildlife protection",
+    "slug": "officials-announce-funding-for-wildlife-protection-092",
+    "category": {
+      "id": 8,
+      "name": "Environment"
+    },
+    "author": {
+      "name": "Marcus Reed",
+      "publishingDate": "2026-05-16T21:00:00Z",
+      "image": "https://example.com/images/authors/author-002.jpg"
+    },
+    "excerpt": "Officials Announce Funding for wildlife protection. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-092.jpg",
+    "tags": [
+      "environment",
+      "wildlife-protection",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.5,
+      "trending": true
+    },
+    "status": "published",
+    "views": 3404,
+    "is_todays_pick": false
+  },
+  {
+    "id": 93,
+    "title": "Schools Introduce New Focus on scholarships",
+    "slug": "schools-introduce-new-focus-on-scholarships-093",
+    "category": {
+      "id": 9,
+      "name": "Education"
+    },
+    "author": {
+      "name": "Sophia Bennett",
+      "publishingDate": "2026-05-16T17:00:00Z",
+      "image": "https://example.com/images/authors/author-003.jpg"
+    },
+    "excerpt": "Schools Introduce New Focus on scholarships. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-093.jpg",
+    "tags": [
+      "education",
+      "scholarships",
+      "latest"
+    ],
+    "rating": {
+      "number": 3.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 4341,
+    "is_todays_pick": false
+  },
+  {
+    "id": 94,
+    "title": "Students Benefit From Expanded online learning",
+    "slug": "students-benefit-from-expanded-online-learning-094",
+    "category": {
+      "id": 9,
+      "name": "Education"
+    },
+    "author": {
+      "name": "Daniel Harper",
+      "publishingDate": "2026-05-16T13:00:00Z",
+      "image": "https://example.com/images/authors/author-004.jpg"
+    },
+    "excerpt": "Students Benefit From Expanded online learning. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-094.jpg",
+    "tags": [
+      "education",
+      "online-learning",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.6,
+      "trending": false
+    },
+    "status": "published",
+    "views": 5278,
+    "is_todays_pick": false
+  },
+  {
+    "id": 95,
+    "title": "Education Leaders Review Progress in teacher training",
+    "slug": "education-leaders-review-progress-in-teacher-training-095",
+    "category": {
+      "id": 9,
+      "name": "Education"
+    },
+    "author": {
+      "name": "Lina Morgan",
+      "publishingDate": "2026-05-16T09:00:00Z",
+      "image": "https://example.com/images/authors/author-005.jpg"
+    },
+    "excerpt": "Education Leaders Review Progress in teacher training. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-095.jpg",
+    "tags": [
+      "education",
+      "teacher-training",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.0,
+      "trending": false
+    },
+    "status": "published",
+    "views": 6215,
+    "is_todays_pick": false
+  },
+  {
+    "id": 96,
+    "title": "Schools Introduce New Focus on school safety",
+    "slug": "schools-introduce-new-focus-on-school-safety-096",
+    "category": {
+      "id": 9,
+      "name": "Education"
+    },
+    "author": {
+      "name": "Owen Carter",
+      "publishingDate": "2026-05-16T05:00:00Z",
+      "image": "https://example.com/images/authors/author-006.jpg"
+    },
+    "excerpt": "Schools Introduce New Focus on school safety. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-096.jpg",
+    "tags": [
+      "education",
+      "school-safety",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.7,
+      "trending": false
+    },
+    "status": "published",
+    "views": 7152,
+    "is_todays_pick": false
+  },
+  {
+    "id": 97,
+    "title": "Students Benefit From Expanded STEM programs",
+    "slug": "students-benefit-from-expanded-stem-programs-097",
+    "category": {
+      "id": 9,
+      "name": "Education"
+    },
+    "author": {
+      "name": "Maya Brooks",
+      "publishingDate": "2026-05-16T01:00:00Z",
+      "image": "https://example.com/images/authors/author-007.jpg"
+    },
+    "excerpt": "Students Benefit From Expanded STEM programs. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-097.jpg",
+    "tags": [
+      "education",
+      "stem-programs",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.1,
+      "trending": false
+    },
+    "status": "published",
+    "views": 8089,
+    "is_todays_pick": false
+  },
+  {
+    "id": 98,
+    "title": "Travelers Show Growing Interest in mountain village",
+    "slug": "travelers-show-growing-interest-in-mountain-village-098",
+    "category": {
+      "id": 10,
+      "name": "Travel"
+    },
+    "author": {
+      "name": "Noah Sinclair",
+      "publishingDate": "2026-05-15T21:00:00Z",
+      "image": "https://example.com/images/authors/author-008.jpg"
+    },
+    "excerpt": "Travelers Show Growing Interest in mountain village. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-098.jpg",
+    "tags": [
+      "travel",
+      "mountain-village",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.8,
+      "trending": true
+    },
+    "status": "published",
+    "views": 9026,
+    "is_todays_pick": false
+  },
+  {
+    "id": 99,
+    "title": "New Guide Highlights Best Experiences Around beach routes",
+    "slug": "new-guide-highlights-best-experiences-around-beach-routes-099",
+    "category": {
+      "id": 10,
+      "name": "Travel"
+    },
+    "author": {
+      "name": "Priya Shah",
+      "publishingDate": "2026-05-15T17:00:00Z",
+      "image": "https://example.com/images/authors/author-009.jpg"
+    },
+    "excerpt": "New Guide Highlights Best Experiences Around beach routes. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-099.jpg",
+    "tags": [
+      "travel",
+      "beach-routes",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.2,
+      "trending": true
+    },
+    "status": "published",
+    "views": 9963,
+    "is_todays_pick": false
+  },
+  {
+    "id": 100,
+    "title": "Tour Operators Add Packages for heritage tourism",
+    "slug": "tour-operators-add-packages-for-heritage-tourism-100",
+    "category": {
+      "id": 10,
+      "name": "Travel"
+    },
+    "author": {
+      "name": "Ethan Wells",
+      "publishingDate": "2026-05-15T13:00:00Z",
+      "image": "https://example.com/images/authors/author-010.jpg"
+    },
+    "excerpt": "Tour Operators Add Packages for heritage tourism. This report covers the latest updates, key context, and what readers should watch next.",
+    "imageUrl": "https://example.com/images/news/news-100.jpg",
+    "tags": [
+      "travel",
+      "heritage-tourism",
+      "latest"
+    ],
+    "rating": {
+      "number": 4.9,
+      "trending": false
+    },
+    "status": "published",
+    "views": 10900,
+    "is_todays_pick": true
+  }
+]
