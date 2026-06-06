@@ -39,7 +39,7 @@ const NewsCard = ({news}) => {
                     </div>
                     <div className="flex items-center space-x-2.5">
                         <IoEyeOutline className="text-2xl"/>
-                        <h3 className="font-medium text-base">499</h3>
+                        <h3 className="font-medium text-base">{news.views}</h3>
                     </div>
                 </div>
             </div>
