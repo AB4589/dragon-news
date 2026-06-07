@@ -8,12 +8,11 @@ const NewsDetalils = () => {
     const {id} = useParams();
     const data = useLoaderData();
     const [news, setNews] = useState({});
+    const [loading, setLoading] = useState(true);
     console.log(id, data,news)
     useEffect(()=>{
         const newsDetails = data.find((singleNews) =>singleNews.id==id);
         setNews(newsDetails);
-
-        console.log(newsDetails)
         },[data, id]
     );
     return (
@@ -21,9 +20,9 @@ const NewsDetalils = () => {
             <header>
                  <Heading></Heading>
             </header>
-            <main className="w-10/12 mx-auto grid grid-cols-12">
+            <main className="w-10/12 mx-auto grid grid-cols-12 my-5">
                     <section className="col-span-9">
-                        <h2 className="font-bold">News Details</h2>
+                        <h2 className="font-bold mb-5">News Details</h2>
                         <NewsDetalilsCard newsDetails={news}></NewsDetalilsCard>
                     </section>
                     <aside className="col-span-3">
