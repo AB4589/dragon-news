@@ -4,6 +4,7 @@ const Marquee = MarqueeImport.default || MarqueeImport;
 
 const NewsBar = () => {
   return (
+    <div className="sticky top-0">
     <div className="mx-auto w-11/12 bg-[#F3F3F3] py-4 px-6 flex items-center">
       <button className="bg-[#D72050] btn-sm text-white text-xl px-6 py-2">
         Latest
@@ -19,6 +20,7 @@ const NewsBar = () => {
           </span>
         </Marquee>
       </div>
+    </div>
     </div>
   );
 };

@@ -1,6 +1,32 @@
+import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
+import { use } from "react";
 import { Link } from "react-router";
+import { AuthContext } from "../../provider/AuthProvider";
 
 const Login = () => {
+  const {loginUser} = use(AuthContext);
+
+  const handleLogin = (e) => {
+    e.preventDefault();
+    const form = e.target;
+    const email = form.email.value;
+    const password = form.password.value;
+    loginUser(email, password)
+    .then((userCredential)=>{
+         const user = userCredential.user;
+         console.log(user)
+         console.log("Yeah, You are in")
+    }).catch((error) => {
+    const errorCode = error.code;
+    const errorMessage = error.message;
+    console.log(errorCode)
+    console.log(errorMessage)
+  });
+
+
+
+
+  }
     return (
         <div>
              <div class="mt-10 sm:mx-auto lg-w-full sm:w-full sm:max-w-sm lg:max-w-2xl bg-[#fff] px-24 py-36">
@@ -8,11 +34,11 @@ const Login = () => {
             <div className="border-1 border-[#E7E7E7]   my-12">
 
             </div>
-    <form action="#" method="POST" class="space-y-6">
+    <form onSubmit={handleLogin} class="space-y-6">
       <div>
         <label for="email" class="block text-sm/6 text-2xl font-semibold text-[#403F3F]">Email address</label>
         <div class="mt-2">
-          <input id="email" type="email" name="email" required autocomplete="email" class="block w-full rounded-md bg-white/5 px-3 py-1.5 text-base text-white outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-500 sm:text-sm/6" />
+          <input id="email" type="email" name="email" required autocomplete="email" class="block w-full rounded-md bg-white/5 px-3 py-1.5 text-base outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-500 sm:text-sm/6" />
         </div>
       </div>
 
@@ -21,7 +47,7 @@ const Login = () => {
           <label for="password" class="block text-sm/6 font-medium text-[#403F3F]">Password</label>
         </div>
         <div class="mt-2">
-          <input id="password" type="password" name="password" required autocomplete="current-password" class="block w-full rounded-md bg-white/5 px-3 py-1.5 text-base text-white outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-500 sm:text-sm/6" />
+          <input id="password" type="password" name="password" required autocomplete="current-password" class="block w-full rounded-md bg-white/5 px-3 py-1.5 text-base outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-500 sm:text-sm/6" />
         </div>
       </div>
 

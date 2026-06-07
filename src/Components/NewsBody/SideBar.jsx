@@ -14,11 +14,11 @@ const SideBar = () => {
     
 
     return (
-        <div className="col-span-3">
+        <>
                 <Suspense fallback={<div>Loading...</div>}>
                     <Categories categories={categories} />
                 </Suspense>    
-        </div>
+        </>
     );
 };
 

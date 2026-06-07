@@ -4,12 +4,14 @@ import SocialLogins from "../../layouts/SideLayout/SocialLogins";
 
 const Adverstise = () => {
     return (
-        <div  className="col-span-3">
-            <SocialLogins></SocialLogins>
-            <SocialLinks></SocialLinks>
-            <QZone></QZone>
-            <h2 className="font-semibold">Advertisement</h2>       
-        </div>
+        <>
+            <div className="sticky top-0">
+                <SocialLogins></SocialLogins>
+                <SocialLinks></SocialLinks>
+                <QZone></QZone>
+                <h2 className="font-semibold">Advertisement</h2>       
+            </div>
+        </>
        
     );
 };

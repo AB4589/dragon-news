@@ -4,7 +4,7 @@ import { Link } from "react-router";
 import { IoEyeOutline } from "react-icons/io5";
 
 const NewsCard = ({news}) => {
-     console.log(news.author.image)
+    const {id} = news;
     return (
         <>
             <div>
@@ -30,7 +30,7 @@ const NewsCard = ({news}) => {
                 <img src={news.imageUrl} alt=""/>
                 <div className="description">
                     <p className="text-base font-normal">{news.description}</p>
-                    <Link to={'/'} className="text-[#FF8C47] font-semibold text-base">Read More</Link>
+                    <Link to={`/news-details/${id}`} className="text-[#FF8C47] font-semibold text-base">Read More</Link>
                 </div>
                 <div className="border border-[#E7E7E7]"></div>
                 <div className="flex news-card-footer justify-between">

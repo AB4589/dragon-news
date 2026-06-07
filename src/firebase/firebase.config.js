@@ -1,19 +1,17 @@
+// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
-var firebaseConfig = {
-  apiKey: "API_KEY",
-  authDomain: "PROJECT_ID.firebaseapp.com",
-  // The value of `databaseURL` depends on the location of the database
-  databaseURL: "https://DATABASE_NAME.firebaseio.com",
-  projectId: "PROJECT_ID",
-  // The value of `storageBucket` depends on when you provisioned your default bucket (learn more)
-  storageBucket: "PROJECT_ID.firebasestorage.app",
-  messagingSenderId: "SENDER_ID",
-  appId: "APP_ID",
-  // For Firebase JavaScript SDK v7.20.0 and later, `measurementId` is an optional field
-  measurementId: "G-MEASUREMENT_ID",
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyC7dQ2TKBKe5FaIUuNe2_QNApKx0INWCd0",
+  authDomain: "dragon-news-13c02.firebaseapp.com",
+  projectId: "dragon-news-13c02",
+  storageBucket: "dragon-news-13c02.firebasestorage.app",
+  messagingSenderId: "108247356290",
+  appId: "1:108247356290:web:ae0de409ab45b918cdb59b"
 };
-
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
