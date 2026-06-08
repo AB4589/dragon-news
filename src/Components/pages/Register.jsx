@@ -1,8 +1,9 @@
-import { use } from "react";
+import { use, useState } from "react";
 import { AuthContext } from "../../provider/AuthProvider";
 
 const Register = () => {
-  const {createUser} = use(AuthContext);
+  const [nameError, setNameError] = useState("");
+  const {createUser, setUser, updateUser} = use(AuthContext);
   const handleRegister = (e) => {
     e.preventDefault();
     const form = e.target;
@@ -10,13 +11,20 @@ const Register = () => {
     const email = form.email.value;
     const photoUrl = form.photoUrl.value;
     const password = form.password.value;
-    console.log(name)
-    console.log(photoUrl)
-    console.log(email)
-    console.log(password)
+    if(name.length<4){
+      setNameError("Name should be at least 4 Charector");
+    }
     createUser(email,password)
     .then((res)=>{
       const user = res.user;
+      updateUser({displayName: name, photoUrl: photoUrl}).then(()=>
+      {
+        console.log("Hello")
+        setUser({...user, displayName: name, photoUrl: photoUrl});
+      }).catch((error)=>{
+        console.log(error)
+        setUser(user)
+      })
       console.log(user);
     })
     .catch((error)=>{
@@ -38,6 +46,7 @@ const Register = () => {
         <div className="mt-2">
           <input id="name" type="text" name="name" required className="block w-full rounded-md bg-white/5 px-3 py-1.5 text-base text-black outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-500 sm:text-sm/6" />
         </div>
+        <span className="text-red-500">{nameError}</span>
       </div>
       <div>
         <label htmlFor="photoUrl" className="block text-sm/6 text-2xl font-semibold text-[#403F3F]">Photo URL</label>
